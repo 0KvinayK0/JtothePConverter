@@ -4,19 +4,25 @@ _This script converts any number of JPG/JPEG images within a specified folder to
 
 ## Installation
 
+### Clone the repository:
 ```
-https://github.com/0KvinayK0/JtothePConverter.git
+git clone https://github.com/0KvinayK0/JtothePConverter.git
+```
+
+### Change into its directory:
+```
+cd JtothePConverter/
 ```
 
 ### If on Linux:
 ```
-chmod +x JtothePConverter.git
+chmod +x JPGtoPNGconverter.py
 ```
 
 ## Usage
 
 ```
-python3 JtothePConverter.git source_folder_path/ target_folder_path/
+python3 JPGtoPNGconverter.py source_folder_path/ target_folder_path/
 ```
 
 ## Compatibility
